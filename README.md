@@ -32,3 +32,7 @@ The chats you have with your friends are securely protected, so that no one outs
 
 ### 🚫 Report and block
 If you find a friend or user who makes you uncomfortable or makes you feel uneasy, you can block that user. And also if the user carries out illegal or unlawful actions or commits verbal harassment, you can report it to our team so we can check and ban the account. For now this feature is not available, of course the next update will add it 
+
+## Tech Stack
+• PHP
+• JAVASCRIPT 
